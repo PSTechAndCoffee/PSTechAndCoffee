@@ -6,7 +6,7 @@
 
 - 🛡️ <b>Shadow and work with my current work place's IT Security Team: Cortex DXR projects</b>
 - 🌱 <b>I'm currently learning [TryHackMe: Security Analyst path](https://tryhackme.com/r/p/PSaohin)
-- 🖥️ <b>I’m currently working on creating [Active Directory Home Lab](https://github.com/PSTechAndCoffee/ActiveDirectoryLab), I will link my work here soon!</b>
+- 🖥️ <b>I’m currently working on creating [Active Directory Home Lab](https://github.com/PSTechAndCoffee/ActiveDirectoryLab)</b>
 
 <h2>📄 Certifications</h2>
 
