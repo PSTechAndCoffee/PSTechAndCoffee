@@ -29,7 +29,7 @@
  
 
 
-<em><b>✨Fun fact: In my free time, I volunteer at [Denver Junior League](https://www.jld.org) and stay active in the community — whether it's helping out at the hospital, supporting charity events, lending a hand at church, or participating in local happenings around the city (with my cup of coffee). ☕ </b> :)</em>
+<em><b>✨Fun fact: In my free time, I volunteer at [Denver Junior League](https://www.jld.org) and stay active in the community — whether it's helping out at the hospital, supporting charity events, lending a hand at church, or participating in local happenings around the city (with my cup of coffee). ☕ </b> 🤎</em>
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
