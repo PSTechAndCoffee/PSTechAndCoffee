@@ -5,7 +5,8 @@ IT Site Support Technician | Aspiring System Administrator & Cybersecurity Analy
 <h2>👩🏻‍💻 Cybersecurity Projects:</h2>
 
 - <b>Shadow and work with my current work place's IT Security Team: Cortex DXR projects</b>
-- [TryHackMe: Security Analyst path](https://tryhackme.com/r/p/PSaohin) 
+- [TryHackMe: Security Analyst path](https://tryhackme.com/r/p/PSaohin)
+- I’m currently working on creating Active Directory Home Lab, I will link my work here soon!
 
 
 <h2>📄 Certifications</h2>
