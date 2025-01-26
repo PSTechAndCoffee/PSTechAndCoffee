@@ -24,6 +24,15 @@
 <a style="margin-left: 10px;" target="_blank" href="https://x.com/SaohinPattaya">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a> 
 
+
+ 
+
+✨ Fun fact: In my free time, I volunteer at [Denver Junior League](https://www.jld.org) and stay active in the community — whether it's helping out at the hospital, supporting charity events, lending a hand at church, or participating in local happenings around the city.
+
+
+
+
+
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
