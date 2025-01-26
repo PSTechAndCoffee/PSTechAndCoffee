@@ -16,6 +16,7 @@
 - [Customer Service in the Field](https://www.linkedin.com/in/phatthaya-saohin/details/certifications/1704334502237/single-media-viewer/?profileId=ACoAACrIy5MBeVfOkacdgRWwSaSDQ3ixI0KSl08)
 
 
+
 <h2> 🤳 Connect with me:</h2>
 
 <div align="left"  class="icons-social" style="margin-left: 10px;">
@@ -25,8 +26,8 @@
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a> 
 
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
-
 ✨ Fun fact: In my free time, I volunteer at [Denver Junior League](https://www.jld.org) and stay active in the community — whether it's helping out at the hospital, supporting charity events, lending a hand at church, or participating in local happenings around the city.
 
 
