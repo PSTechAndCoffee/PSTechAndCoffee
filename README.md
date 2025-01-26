@@ -1,6 +1,7 @@
-<h1>Hi, I'm Phatthaya! 👋
-  
-IT Site Support Technician | Aspiring System Administrator & Cybersecurity Analyst
+<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+Phatthaya</a></h1>
+<h3 align="center">IT Site Support Technician | Aspiring System Administrator & Cybersecurity Analyst &#127470;&#127475</h3>
+
 
 <h2>👩🏻‍💻 Cybersecurity Projects:</h2>
 
