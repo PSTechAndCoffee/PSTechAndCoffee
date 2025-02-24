@@ -7,7 +7,8 @@
 - 🛡️ <b>Shadow and work with my current work place's IT Security Team: Cortex DXR projects</b>
 - 🌱 <b>I'm currently learning [TryHackMe: Security Analyst path](https://tryhackme.com/r/p/PSaohin)
 - 🖥️ <b>[Active Directory Home Lab](https://github.com/PSTechAndCoffee/ActiveDirectoryLab)</b>
-
+- 🖥️ <b>I'm currently working on building a SIEM home lab in deploying a Kali Linux VM and configuring Elastic Agents for log collection. I'll be updating it here soon!
+ 
 <h2>📄 Certifications</h2>
 
 - [CompTIA A+ Certification](https://www.credly.com/badges/1ad9ad0a-f9e5-4979-bfce-56c7842c1eb8/linked_in_profile)
