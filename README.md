@@ -1,36 +1,46 @@
-<h1 align="center">Hi! I'm Phatthaya 👋 </a></h1>
-<h3 align="center">IT Site Support Technician | Aspiring System Administrator & Cybersecurity Analyst </h3>
-
-
-<h2>👩🏻‍💻 Cybersecurity Projects:</h2>
-
-- 🛡️ <b>Shadow and work with my current work place's IT Security Team: Cortex DXR projects</b>
-- 🌱 <b>I'm currently learning [TryHackMe: Security Analyst path](https://tryhackme.com/r/p/PSaohin)
-- 🖥️ <b>[Active Directory Home Lab](https://github.com/PSTechAndCoffee/ActiveDirectoryLab)</b>
-- 🖥️ <b>I'm currently working on building a SIEM home lab in deploying a Kali Linux VM and configuring Elastic Agents for log collection. I'll be updating it here soon!
- 
-<h2>📄 Certifications</h2>
-
-- [CompTIA A+ Certification](https://www.credly.com/badges/1ad9ad0a-f9e5-4979-bfce-56c7842c1eb8/linked_in_profile)
-- [CompTIA Security+ Certification](https://www.credly.com/badges/cdd5eebb-a02b-4dff-a50c-01ccbdb4766b/linked_in_profile)
-- [Customer Service in the Field](https://www.linkedin.com/in/phatthaya-saohin/details/certifications/1704334502237/single-media-viewer/?profileId=ACoAACrIy5MBeVfOkacdgRWwSaSDQ3ixI0KSl08)
-
-
-
-<h2> 🤳 Connect with me:</h2>
-
-<div align="left"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/phatthaya-saohin/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-<a style="margin-left: 10px;" target="_blank" href="https://x.com/SaohinPattaya">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a> 
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
+<h1 align="center">Hi! I'm Phatthaya 👋</h1>
+<h3 align="center">IT Site Support Technician | Aspiring System Administrator & Cybersecurity Analyst</h3>
+
+<hr>
+
+## 👩🏻‍💻 **Cybersecurity Projects:**
+
+- 🛡️ **Shadowing & Collaborating with IT Security Team:** Working on **Cortex XDR** projects at my current workplace.
+- 🌱 **Currently Learning:** [**TryHackMe: Security Analyst Path**](https://tryhackme.com/r/p/PSaohin) — Enhancing my hands-on cybersecurity skills.
+- 🖥️ **[Active Directory Home Lab](https://github.com/PSTechAndCoffee/ActiveDirectoryLab)** — Designing and managing secure AD environments with VMware.
+- 🚀 **Building a SIEM Home Lab:** Deploying a **Kali Linux** VM and configuring **Elastic Agents** for log collection. Stay tuned for updates!
+
+<hr>
+
+## 📄 **Certifications:**
+
+- [**CompTIA A+ Certification**](https://www.credly.com/badges/1ad9ad0a-f9e5-4979-bfce-56c7842c1eb8/linked_in_profile)
+- [**CompTIA Security+ Certification**](https://www.credly.com/badges/cdd5eebb-a02b-4dff-a50c-01ccbdb4766b/linked_in_profile)
+- [**Customer Service in the Field**](https://www.linkedin.com/in/phatthaya-saohin/details/certifications/1704334502237/single-media-viewer/?profileId=ACoAACrIy5MBeVfOkacdgRWwSaSDQ3ixI0KSl08)
+
+<hr>
+
+## 🤳 **Connect with Me:**
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/phatthaya-saohin/" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn" style="margin: 10px;">
+  </a>
+  <a href="https://x.com/SaohinPattaya" target="_blank">
+    <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" alt="Twitter" style="margin: 10px;">
+  </a>
+</div>
+
+<hr>
+
+<em><b>✨Fun fact:</b> In my free time, I volunteer at [Denver Junior League](https://www.jld.org) and stay active in the community — whether it's helping out at the hospital, supporting charity events, lending a hand at church, or participating in local happenings around the city (with my cup of coffee). ☕🤎</em>
 
 
-<em><b>✨Fun fact: In my free time, I volunteer at [Denver Junior League](https://www.jld.org) and stay active in the community — whether it's helping out at the hospital, supporting charity events, lending a hand at church, or participating in local happenings around the city (with my cup of coffee). ☕ </b> 🤎</em>
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
