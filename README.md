@@ -10,9 +10,9 @@
 ## 👩🏻‍💻 **Cybersecurity Projects:**
 
 - 🛡️ **Shadowing & Collaborating with IT Security Team:** Working on **Cortex XDR** projects at my current workplace.
-- 🌱 **Currently Learning:** [**TryHackMe: Security Analyst Path**](https://tryhackme.com/r/p/PSaohin) — Enhancing my hands-on cybersecurity skills.
+- 🌱 **Currently Learning:** [**TryHackMe: SOC Level 1 Path**](https://tryhackme.com/r/p/PSaohin) — Enhancing my hands-on cybersecurity skills.
 - 🖥️ **[Active Directory Home Lab](https://github.com/PSTechAndCoffee/ActiveDirectoryLab)** — Designing and managing secure AD environments with VMware.
-- 🚀 **Building a SIEM Home Lab:** Deploying a **Kali Linux** VM and configuring **Elastic Agents** for log collection. Stay tuned for updates!
+- 🚀 **[Building a SIEM Home Lab](https://github.com/PSTechAndCoffee/ElasticSIEMLab/tree/main):** Deploying a **Kali Linux** VM and configuring **Elastic Agents** for log collection. Stay tuned for updates!
 
 <hr>
 
