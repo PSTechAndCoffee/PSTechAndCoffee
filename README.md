@@ -2,7 +2,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
-<h1 align="center">Hi! I'm Phatthaya 👋</h1>
+<h1 align="center">Hi! I'm Pattaya 👋</h1>
 <h3 align="center">IT Site Support Technician | Aspiring System Administrator & Cybersecurity Analyst</h3>
 
 <hr>
