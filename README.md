@@ -27,7 +27,7 @@
 ## 🤳 **Connect with Me:**
 
 <div align="center">
-  <a href="www.linkedin.com/in/pattaya-knight/" target="_blank">
+  <a href="https://www.linkedin.com/in/pattaya-knight/" target="_blank">
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn" style="margin: 10px;">
   </a>
   <a href="https://x.com/SaohinPattaya" target="_blank">
