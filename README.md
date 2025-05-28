@@ -39,6 +39,7 @@
 
 <em><b>✨Fun fact:</b> In my free time, I volunteer at [Denver Junior League](https://www.jld.org) and stay active in the community — whether it's helping out at the hospital, supporting charity events, lending a hand at church, or participating in local happenings around the city (with my cup of coffee). ☕🤎</em>
 
+![IMG_6729](https://github.com/user-attachments/assets/fa8cb4a3-4923-44fa-8407-adf8a36a6e57)
 
 
 
