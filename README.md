@@ -4,10 +4,12 @@
  
 <h1 align="center">Hi! I'm Pattaya Knight 👋</h1>
 <h3 align="center">Welcome to my IT and Cybersecurity project portfolio!</h3>
-
+<hr> I'm currently working as an IT Support Technician and actively building hands-on experience in Cybersecurity and System Administration.
+Below are some of the projects I've been working on—feel free to explore! If you find anything useful or have insights to share, I'd love to connect and collaborate.
+Thanks for stopping by!
 <hr>
 
-## 👩🏻‍💻 **Cybersecurity Projects:**
+## 👩🏻‍💻 **My Projects:**
 
 - 🛡️ **Shadowing & Collaborating with IT Security Team:** Working on **Cortex XDR** projects at my current workplace.
 - 🌱 **Currently Learning:** [**TryHackMe: SOC Level 1 Path**](https://tryhackme.com/r/p/PSaohin) — Enhancing my hands-on cybersecurity skills.
