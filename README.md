@@ -2,8 +2,8 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
-<h1 align="center">Hi! I'm Pattaya 👋</h1>
-<h3 align="center">IT Site Support Technician | Aspiring System Administrator & Cybersecurity Analyst</h3>
+<h1 align="center">Hi! I'm Pattaya Knight 👋</h1>
+<h3 align="center">Welcome to my IT and Cybersecurity project portfolio!</h3>
 
 <hr>
 
