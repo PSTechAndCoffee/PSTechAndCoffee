@@ -39,7 +39,7 @@ Thanks for stopping by!
 
 <hr>
 
-<em><b>✨Fun fact:</b> In my free time, I volunteer at [Denver Junior League](https://www.jld.org) and stay active in the community — whether it's helping out at the hospital, supporting charity events, lending a hand at church, or participating in local happenings around the city.</em>
+<em><b>✨Fun fact:</b> In my free time, I volunteer at [Denver Junior League](https://www.jld.org) and stay active in the community — whether it's helping out at the hospital, supporting charity events, lending a hand at church, or participating in local happenings around the city.♡ </em>
 
 
 
